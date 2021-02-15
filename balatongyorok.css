@@ -1,3 +1,8 @@
 body{
     background-image:url(./back.jpg);
 }
+
+#keret{
+    width: 1000px;
+    margin: auto;
+}
