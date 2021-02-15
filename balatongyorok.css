@@ -6,3 +6,17 @@ body{
     width: 1000px;
     margin: auto;
 }
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(./panorama.jpg);
+    background-position: 100%;
+    background-size: cover;
+    height: 160px;
+}
+
+#cimer{
+    width: 150px;
+    float: right;
+}
