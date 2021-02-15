@@ -34,3 +34,12 @@ body{
     background-color: #5b9cea;
     padding: 10px;
 }
+
+table{
+    background-color: #b0d1f1;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+}
